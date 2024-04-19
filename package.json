@@ -1,0 +1,18 @@
+{
+  "name": "vidio-code-by-shabbir",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shabbir Raza",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "inquirer": "^9.2.18"
+  }
+}
